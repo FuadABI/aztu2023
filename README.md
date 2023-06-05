@@ -4,7 +4,7 @@
   <b> AZTU 2023 </b><br>
  ETİK HAKİNQ ÜZRƏ TƏDRİS KURSUNUN İŞLƏNİLMƏSİ
 MÖVZUSUNDA HAZIRLANMIŞ BURAXILIŞ İŞİNDƏ İSTİFADƏ OLUNAN LABORATORİYALAR HAQQINDA<br>
-<br> <b>Fakültə: "İnformasiya və telekommunikasiya texnologiyaları"</b></p>
+<br> <b>Fakültə: "İnformasiya və telekommunikasiya texnologiyaları"</b>
 <br> <b>İxtisas: 050106 – “İnformasiya təhlükəsizliyi”</b> </p>
 
 ## Laboratoriyalar
