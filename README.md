@@ -1,5 +1,4 @@
-# <p align="center">ETİK HAKİNQ ÜZRƏ TƏDRİS KURSUNUN İŞLƏNİLMƏSİ
-MÖVZUSUNDA]</p>
+# <p align="center">ETİK HAKİNQ ÜZRƏ TƏDRİS KURSUNUN İŞLƏNİLMƏSİ MÖVZUSUNDA</p>
 
 <p align="center">
   <b> AZTU 2023 </b><br>
