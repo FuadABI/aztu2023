@@ -1,4 +1,4 @@
-# <p align="center">![ETİK HAKİNQ ÜZRƏ TƏDRİS KURSUNUN İŞLƏNİLMƏSİ
+# <p align="center">ETİK HAKİNQ ÜZRƏ TƏDRİS KURSUNUN İŞLƏNİLMƏSİ
 MÖVZUSUNDA]</p>
 
 <p align="center">
