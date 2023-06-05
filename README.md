@@ -5,8 +5,8 @@
  ETİK HAKİNQ ÜZRƏ TƏDRİS KURSUNUN İŞLƏNİLMƏSİ
 MÖVZUSUNDA HAZIRLANMIŞ BURAXILIŞ İŞİNDƏ İSTİFADƏ OLUNAN LABORATORİYALAR HAQQINDA<br>
 <br>
-  Fakültə: "İnformasiya və telekommunikasiya texnologiyaları"
-  İxtisas: 050106 – “İnformasiya təhlükəsizliyi”
+  <b>Fakültə: "İnformasiya və telekommunikasiya texnologiyaları"</b>
+  <b>İxtisas: 050106 – “İnformasiya təhlükəsizliyi”</b>
 </p>
 
 ## Laboratoriyalar
