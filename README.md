@@ -1,7 +1,8 @@
-# <p align="center">![Etik Hackinq Kursu](https://example.com/etik-hackinq.png)</p>
+# <p align="center">![ETİK HAKİNQ ÜZRƏ TƏDRİS KURSUNUN İŞLƏNİLMƏSİ
+MÖVZUSUNDA]</p>
 
 <p align="center">
-  <b>Merhaba!</b><br>
+  <b> AZTU 2023 </b><br>
  ETİK HAKİNQ ÜZRƏ TƏDRİS KURSUNUN İŞLƏNİLMƏSİ
 MÖVZUSUNDA HAZIRLANMIŞ BURAXILIŞ İŞİNDƏ İSTİFADƏ OLUNAN LABORATORİYALAR HAQQINDA<br>
 <br>
