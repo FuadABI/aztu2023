@@ -9,7 +9,7 @@ MÖVZUSUNDA HAZIRLANMIŞ BURAXILIŞ İŞİNDƏ İSTİFADƏ OLUNAN LABORATORİYAL
   İxtisas: 050106 – “İnformasiya təhlükəsizliyi”
 </p>
 
-## Laboratoiryalar
+## Laboratoriyalar
 - 🚀 Laboratoriya 1 - Veb Hakinq mövzusu üzrə edilən, Laboratoriya İşləri qeyd olunmuşdur.
 - 💡 Laboratoriya 2 - Kali Linux vasitəsi ilə bəzi tooların istifadəsi qeyd olunmuşdur.
 
